@@ -2,8 +2,7 @@
   "name": "service-nodejs",
   "version": "0.0.1",
   "scripts": {
-    "start": "node app.js",
-    "install": "npm audit --audit-level high"
+    "start": "node app.js"
   },
   "dependencies": {
     "keycloak-connect": "4.0.0-beta.3",
@@ -26,7 +25,6 @@
     "istanbul": "^0.4.3",
     "jsdoc": "^3.4.0",
     "jshint": "^2.9.1",
-    "nsp": "^2.3.0",
     "tape": "^4.5.1",
     "roi": "^0.15.0"
   }
