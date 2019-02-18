@@ -1,1 +1,1 @@
-# misc
+# OpenShift SSO Demo
